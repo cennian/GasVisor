@@ -1,0 +1,3 @@
+osource "c:/battery_status_code_nrf91/boards/shields/*/Kconfig.defconfig"
+osource "c:/users/ammar/desktop/gasvisorfirmware/boards/shields/*/Kconfig.defconfig"
+osource "C:/ncs/v2.5.0/nrf/boards/shields/*/Kconfig.defconfig"
